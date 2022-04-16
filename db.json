@@ -1,4 +1,11 @@
 {
+   "country": [
+   
+  ],
+  "city": [
+   
+  ],
+  
   "employee": [
     {
       "name": "Dinesh sharma",
@@ -32,19 +39,6 @@
   
   "users":[
   
-  ],
-  "country": [
-    {
-      "country": "India",
-      "id": 1
-    }
-  ],
-  "city": [
-    {
-      "city": "Bgp",
-       "country": "India",
-      "population": "415561545",
-      "id": 4
-    }
   ]
+ 
 }
